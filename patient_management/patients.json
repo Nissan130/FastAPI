@@ -1,0 +1,33 @@
+{
+    "P001": {
+        "name": "Nissan",
+        "city": "Rajshahi",
+        "age": 25,
+        "gender": "male",
+        "height": 1.65,
+        "weight": 72,
+        "bmi": 33.06,
+        "verdict": "obese"
+    },
+    "P002": {
+        "name": "Sakib",
+        "city": "Dhaka",
+        "age": 24,
+        "gender": "male",
+        "height": 1.6,
+        "weight": 60,
+        "bmi": 22.06,
+        "verdict": "kidney problem"
+    },
+    "P003": {
+        "name": "Nusrat",
+        "city": "Khulna",
+        "age": 22,
+        "gender": "female",
+        "height": 1.5,
+        "weight": 50,
+        "bmi": 20.06,
+        "verdict": "liver problem"
+    }
+    
+}
