@@ -28,15 +28,5 @@
         "weight": 60,
         "bmi": 22.06,
         "verdict": "kidney problem"
-    },
-    "P004": {
-        "name": "Ali",
-        "city": "Rajshahi",
-        "age": 20,
-        "gender": "Male",
-        "height": 1.74,
-        "weight": 55.0,
-        "bmi": 18.17,
-        "verdict": "underweight"
     }
 }
